@@ -112,11 +112,11 @@ sudo nano tools/config.json
  ``` 
  ### Gerekli düzenlemeyi yaptıktan sonra CRTL+X yaptıktan sonra Y basıp ENTER ile değişkliği kayıt ediyoruz.
  
-     ## Screen oluşturulım.
+## Screen oluşturulım.
    ```
 screen -R inery
  ```
-      ## Node Başlatıyoruz.
+## Node Başlatıyoruz.
    ```
 ./ine.py --master
  ```
