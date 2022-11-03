@@ -62,7 +62,7 @@ autoconf libtool curl zlib1g-dev sudo ruby libusb-1.0-0-dev \
 libcurl4-gnutls-dev pkg-config patch llvm-7-dev clang-7 vim-common jq libncurses5
  ```
  
-  ## Firewall için düzenlemeleri yapalım
+## Firewall için düzenlemeleri yapalım
    ```
 sudo apt-get install firewalld 
 sudo systemctl start firewalld 
@@ -78,27 +78,27 @@ sudo systemctl restart firewalld
    ```
 git clone https://github.com/inery-blockchain/inery-node
  ```
-  ## Kurulum klasörüne giriyoruz.
+## Kurulum klasörüne giriyoruz.
    ```
 cd inery-node/inery.setup
  ```
-  ## Uygulama izinlerini değiştirelim
+## Uygulama izinlerini değiştirelim
    ```
 chmod +x ine.py
  ``` 
-   ## Binary'i aktarıyoruz.
+## Binary'i aktarıyoruz.
    ```
 ./ine.py --export
  ``` 
-   ## Bilgileri güncelleyelim.
+## Bilgileri güncelleyelim.
    ```
 cd; source .bashrc; cd -
  ``` 
-    ## Config dosyasının içine girelim.
+## Config dosyasının içine girelim.
    ```
 sudo nano tools/config.json
  ``` 
-     ## Gerekli kısımlar değiştiriyoruz. Config dosyası içindeki bu bölümün gerekli ayarları kayıt olduğunuz Inery dashboard üzerinden ulaşabilirsiniz. oradaki bilgileri Aşağıdak kod parçasında gördüğünüz örnekteki yerlere yazıyoruz. 
+## Gerekli kısımlar değiştiriyoruz. Config dosyası içindeki bu bölümün gerekli ayarları kayıt olduğunuz Inery dashboard üzerinden ulaşabilirsiniz. oradaki bilgileri Aşağıdak kod parçasında gördüğünüz örnekteki yerlere yazıyoruz. 
    ```
 "MASTER_ACCOUNT":
 {
