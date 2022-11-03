@@ -10,7 +10,13 @@
 
 ### Inery yazılımı, merkezi olmayan blok zinciri teknolojisinden yararlanmak isteyen herhangi bir işletme için mükemmel bir çözümü temsil ediyor. Bu nedenle Inery, veritabanlarının merkeziyetsizliği ele almak için özel olarak tasarlanmıştır.
 
-## Manta Network için minimum kurulum gereksinimleri belirtilmemiştir. Aşağıdaki rehberden digital ocean veya google cloud ile en düşük sunucuları kiralayıp kurabilirsiniz.
+### Sistem Gereksinimleri 
+
+|CPU | RAM  | Disk  | 
+|----|------|----------|
+|   6| 12GB  | 500GB    |
+
+# Aşağıdaki rehberden digital ocean veya google cloud ile en düşük sunucuları kiralayıp kurabilirsiniz.
   
    # Daha önce Node kurulumu yapmadıysanız buradan sırasıyla adımları takip ederek tüm süreci öğrenebilirsiniz.
   ## Yeni Başladım Rehberi; [Pusula Finans Labs.](https://www.labs.pusulafinans.com/category/rehber/)
@@ -22,7 +28,9 @@
 
  
   
-  # 1. adımda Manta kurulumu otomatik script ile kurulumunu paylaşalım sorun yaşarsanız manuel kurulum kısmına geçebilirsiniz.
+  # 1. adım
+Öncelikle [Buradan](https://testnet.inery.io/dashboard/) sitesine girip kayıt ''Sign Up'' butonuyla kayıt olmamız gerekiyor. Kayıt aşamasından sonra bizden sunucumuza dair birtakım bilgileri istediği için, sunucuyu temin ettikten sonra kayıt işlemine devam etmemiz gerekiyor.
+
   
   
   ## Root yetkisi alalım.
