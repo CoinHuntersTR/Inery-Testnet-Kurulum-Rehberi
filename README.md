@@ -30,8 +30,10 @@
   
   # 1. adım
 Öncelikle [Buradan](https://testnet.inery.io/dashboard/) sitesine girip kayıt ''Sign Up'' butonuyla kayıt olmamız gerekiyor. Kayıt aşamasından sonra bizden sunucumuza dair birtakım bilgileri istediği için, sunucuyu temin ettikten sonra kayıt işlemine devam etmemiz gerekiyor.
+<br/><br>
+![inery2](https://user-images.githubusercontent.com/111747226/199738064-451761ea-99cc-4250-8cdf-bcbcbc2aa463.png)
 
-  
+  Görseldeki adımları tamamlamak için; Aşağıdaki görseldeki gibi suncunuzdan bilgilerinizi temin edebilirsiniz.
   
   ## Root yetkisi alalım.
   ```
