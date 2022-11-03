@@ -39,7 +39,7 @@
  
  ### Kayıt işlemi tamamladıktan sonra kendi sayfanızdaki bölümden test tokeni claim ediyoruz. Sonrasında, Node kurulum adımlarına geçebiliriz.
  
-   # 1. adım Nore Kurulumu
+   # 2. adım Nore Kurulumu
    
   ## Root yetkisi alalım.
   ```
