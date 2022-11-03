@@ -1,9 +1,14 @@
 
 <h1 align="center">Inery-Testnet-Kurulum-Rehberi
 
-  ## Güvenilir kurulumların açıklaması ve Manta Network'te oynadıkları rol için [buraya](https://docs.manta.network/docs/concepts/TrustedSetup) bakın . Katılım talimatları için okumaya devam edin.
-  
- ![image](https://docs.manta.network/img/guides/trusted-setup-stages.svg)
+<br/><br>
+![inery](https://user-images.githubusercontent.com/111747226/199734984-b5481b6f-ed6f-46b4-94ec-ff4ed18643ac.png)
+<br/><br>
+### Inery, verileri merkezden dağıtmak için blok zinciri teknolojisini kullanmak ve aynı zamanda veri ihlallerini azaltmak ve güvenliği sağlamak için benimsenen blok zinciri sinerjisine sahip dağıtılmış bir veritabanını temsil eder. Bu yaklaşım, kullanıcı verilerini güvence altına alır ve yaygın bir kullanıma sahiptir.
+
+### Güvenli depolama, ilaç, tedarik zincirleri, finans, bankacılık vb. alanlarda kullanılabilir. Inery platformu uygulaması, sürekli olarak bilgisayar tarafından okunabilir bir forma dönüştürülen verilerin depolanması işlevi görür. Bu şekilde, verilerin güvenli bir şekilde saklanması ve değer sözleşmeleriyle bağlanmasıyla Inery Blockchain, verilerin en yüksek şeffaflık ve güvenlikle depolanmasını, değiştirilmesini ve aktarılmasını sağlar.
+
+### Inery yazılımı, merkezi olmayan blok zinciri teknolojisinden yararlanmak isteyen herhangi bir işletme için mükemmel bir çözümü temsil ediyor. Bu nedenle Inery, veritabanlarının merkeziyetsizliği ele almak için özel olarak tasarlanmıştır.
 
 ## Manta Network için minimum kurulum gereksinimleri belirtilmemiştir. Aşağıdaki rehberden digital ocean veya google cloud ile en düşük sunucuları kiralayıp kurabilirsiniz.
   
